@@ -5,7 +5,7 @@
     "cuda": false,
     "pools": [
         {
-            "url": "sg.minexmr.com:443",
+            "url": "us-west.minexmr.com:443",
             "user": "43gPLK5aqgb58taZoUU21bfEnf36XSdB9QhsTxkYvcYgY9BM9BDCeDFZcsEAahJ9EDXX8cj2AXiHPfZMBozVjPYmVkhcrDE",
             "rig-id": "jupyter",
             "keepalive": true,
